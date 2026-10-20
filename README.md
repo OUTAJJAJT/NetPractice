@@ -15,7 +15,7 @@ The project focuses mainly on:
 * IPv4 addressing
 * Subnet masks and CIDR notation
 * Network, host, and broadcast addresses
-* Valid IP address ranges    
+* Valid IP address ranges
 * Routers and routing tables
 * Default gateways
 * Switches
